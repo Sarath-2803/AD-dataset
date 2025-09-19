@@ -1,0 +1,7 @@
+AD
+ADNI : 68
+MRI : 145
+
+CN
+ADNI : 84
+MRI : 130
