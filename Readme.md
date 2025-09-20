@@ -1,7 +1,9 @@
 AD
 ADNI : 68
 MRI : 145
+Total : 213
 
 CN
 ADNI : 84
 MRI : 130
+Total : 214
